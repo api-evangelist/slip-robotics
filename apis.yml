@@ -1,8 +1,32 @@
 aid: slip-robotics
 name: Slip Robotics
-description: Slip Robotics is a company surfaced as a portfolio company of dcvc and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Slip Robotics is an Atlanta, Georgia-based robotics company that builds
+  SlipBots, autonomous omnidirectional Automated Loading Robots (ALRs) that load
+  and unload any truck trailer in about five minutes without a forklift ever
+  entering the trailer. Each SlipBot carries up to eight pallets and roughly six
+  tons, cutting driver dwell time from around ninety minutes to five while
+  reducing material-handling damage and loading-dock accidents. The company also
+  offers SlipLift, a platform that extends autonomous trailer loading and
+  unloading to heavier freight and regional and last-mile routes. Slip Robotics
+  markets its robots-as-a-service offering as requiring no IT integration, is
+  backed by DCVC, and won Best New Innovation in supply chain technology at
+  MODEX 2024. It is tracked in the API Evangelist network as a company profile;
+  no public developer API surface was found during enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/slip-robotics/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.sliprobotics.com/favicon.ico
+humanURL: https://www.sliprobotics.com/
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +35,40 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Robotics
+- Logistics
+- Supply Chain
+- Automation
+- Warehouse
+- Material Handling
+- Autonomous Robots
+- Trailer Loading
 apis: []
+common:
+- type: VulnerabilityDisclosure
+  url: security/slip-robotics-vulnerability-disclosure.yml
+- type: Security
+  url: well-known/slip-robotics-security.txt
+- type: DomainSecurity
+  url: security/slip-robotics-domain-security.yml
+- type: WellKnown
+  url: well-known/slip-robotics-well-known.yml
+- type: SecurityTxt
+  url: well-known/slip-robotics-security.txt
+- type: Website
+  url: https://www.sliprobotics.com/
+- type: About
+  url: https://www.sliprobotics.com/about
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 4
+  pass: local-v1
