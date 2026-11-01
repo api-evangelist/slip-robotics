@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Slip Robotics is a company surfaced as a portfolio company of dcvc and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Slip Robotics is an Atlanta, Georgia-based robotics company that builds SlipBots, autonomous omnidirectional Automated Loading Robots (ALRs) that load and unload any truck trailer in about five minutes without a forklift ever entering the trailer. Each SlipBot carries up to eight pallets and roughly six tons, cutting driver dwell time from around ninety minutes to five while reducing material-handling damage and loading-dock accidents. The company also offers SlipLift, a platform that extends autonomous trailer loading and unloading to heavier freight and regional and last-mile routes. Slip Robotics markets its robots-as-a-service offering as requiring no IT integration, is backed by DCVC, and won Best New Innovation in supply chain technology at MODEX 2024. It is tracked in the API Evangelist network as a company profile; no public developer API surface was found during enrichment.
 
-Backed by: dcvc
+**Areas:** Company · Robotics · Logistics · Supply Chain · Automation · Warehouse · Material Handling · Autonomous Robots · Trailer Loading
+
+## Slip Robotics on APIs.io
+
+Everything profiled for Slip Robotics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/slip-robotics/](https://apis.io/providers/slip-robotics/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Slip Robotics Domain Security](https://apis.io/security/slip-robotics/slip-robotics-domain-security/)
+- [Slip Robotics Vulnerability Disclosure](https://apis.io/security/slip-robotics/slip-robotics-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.sliprobotics.com/)
+- [Blog](https://www.sliprobotics.com/resources/articles)
+
+## API Evangelist rating
+
+**Kin Score 6.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/slip-robotics/](https://apis.io/providers/slip-robotics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Slip Robotics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/slip-robotics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
